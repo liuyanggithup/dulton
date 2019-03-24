@@ -8,7 +8,7 @@
     <artifactId>dulton</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>dulton-euarke</module>
+        <module>dulton-eureka-server</module>
     </modules>
     <packaging>pom</packaging>
 

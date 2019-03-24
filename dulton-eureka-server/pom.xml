@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dragon.cloud</groupId>
-    <artifactId>dulton-euarke</artifactId>
+    <artifactId>dulton-eureka-server</artifactId>
 
 
 </project>
